@@ -36,7 +36,7 @@ public class HomePage extends TestBase {
 		Assert.assertEquals(searchResult,expecTedResult);
 		
 		
-		System.out.println("career page clicked successfully");
+		System.out.println("career page Test Completed successfully");
 	}
 }
 
